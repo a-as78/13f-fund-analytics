@@ -2,6 +2,10 @@
 
 This project scrapes investment manager data from [13f.info](https://13f.info/), extracts holdings data, compares it across quarters, and infers transaction types. It also includes tools for visual analysis and CSV aggregation.
 
+You can preview the visualizations on the report for a sample of around 40 managers here:
+
+https://a-as78-13f-fund-analytics-analysisdashboard-yz17gp.streamlit.app/
+
 ## Features
 
 - 🔍 Scrape holdings and manager data using BeautifulSoup and Selenium
