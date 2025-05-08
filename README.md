@@ -1,6 +1,6 @@
 # 13F Holdings Scraper
 
-This project scrapes investment manager data from [13f.info](https://13f.info/), extracts holdings data (particularly for common stock - COM), compares it across quarters, and infers transaction types. It also includes tools for visual analysis and CSV aggregation.
+This project scrapes investment manager data from [13f.info](https://13f.info/), extracts holdings data, compares it across quarters, and infers transaction types. It also includes tools for visual analysis and CSV aggregation.
 
 ## Features
 
